@@ -1,0 +1,5 @@
+uma alteração quaquer
+
+Exemplo de merge com conflito 
+
+=) =) =)
