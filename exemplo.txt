@@ -3,7 +3,11 @@ uma alteração quaquer
 Exemplo de merge com conflito 
 
 =) =) =)
+<<<<<<< HEAD
 
 hheyeyeheb
 shhs
 ksdçjaslkdn
+fefefefef
+=======
+>>>>>>> demo
